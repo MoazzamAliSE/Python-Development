@@ -1,6 +1,6 @@
 a = 500
 print(type(a))
-a = str(a)
+a = str(a) # type casting of int to string
 print(type(a))
 print(a)
 

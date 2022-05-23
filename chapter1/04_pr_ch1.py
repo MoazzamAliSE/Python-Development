@@ -7,3 +7,6 @@ print(os.listdir())
 # Data: 16/4/2022
 # import os
 # print(os.listdir())
+
+
+# ['.git', 'Chapter 2', 'chapter1']
